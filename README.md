@@ -17,8 +17,8 @@ The original filename is never modified. The script only appends ` SxxEyy` befor
 ## Installation
 
 ```bash
-git clone https://github.com/tomasArd25/Animepahe-Batch-Rename-for-Jellyfin.git
-cd Animepahe-Batch-Rename-for-Jellyfin
+git clone https://github.com/tomasArd25/animepahe-jellyfin-renamer.git
+cd animepahe-jellyfin-renamer
 ```
 
 There is nothing to install. Just run `rename_episodes.py` with Python.
