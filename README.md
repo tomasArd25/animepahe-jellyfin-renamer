@@ -1,4 +1,4 @@
-# Animepahe Batch Rename for Jellyfin
+# animepahe-jellyfin-renamer
 
 A batch renamer (`rename_episodes.py`) that appends Jellyfin-style `SxxEyy` tags to AnimePahe episode files, so your media server can match them to the right season and episode.
 
